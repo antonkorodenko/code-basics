@@ -1,4 +1,9 @@
+import org.junit.jupiter.api.Test;
+
 public class Lesson12 {
 
-    // здесь должен быть твой код
+    @Test
+    void test() {
+        System.out.println((5 + 2) - (3 * 7));
+    }
 }
