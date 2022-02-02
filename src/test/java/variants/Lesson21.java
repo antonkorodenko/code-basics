@@ -1,3 +1,5 @@
+package variants;
+
 import org.junit.jupiter.api.Test;
 
 public class Lesson21 {
