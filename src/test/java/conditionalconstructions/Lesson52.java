@@ -1,10 +1,11 @@
+package conditionalconstructions;
+
 import org.junit.jupiter.api.Test;
 
-public class Lesson27 {
+public class Lesson52 {
 
     @Test
     void test(){
 
-        System.out.println("hexlet" + '-' + 7);
     }
 }
